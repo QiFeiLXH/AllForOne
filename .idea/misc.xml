@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Integration_Caffeine/pom.xml" />
+        <option value="$PROJECT_DIR$/Integration_Caffeine_2/pom.xml" />
+        <option value="$PROJECT_DIR$/base_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/Integration_Caffeine_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Algorithm/pom.xml" />
+        <option value="$PROJECT_DIR$/ForAllOfThings/pom.xml" />
+        <option value="$PROJECT_DIR$/ApiToken/pom.xml" />
+        <option value="$PROJECT_DIR$/Integration_Redis/pom.xml" />
+        <option value="$PROJECT_DIR$/StreamApi/pom.xml" />
+        <option value="$PROJECT_DIR$/AutoExecSQL/pom.xml" />
+        <option value="$PROJECT_DIR$/LockUsage/pom.xml" />
+        <option value="$PROJECT_DIR$/ForkJoinJob/pom.xml" />
+        <option value="$PROJECT_DIR$/springframework/pom.xml" />
+        <option value="$PROJECT_DIR$/DesignPattern/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/base_parent/Algorithm_Exercise/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

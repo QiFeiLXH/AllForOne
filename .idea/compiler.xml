@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="StreamApi" />
+        <module name="springframework" />
+        <module name="DesignPattern" />
+        <module name="Algorithm" />
+        <module name="ApiToken" />
+        <module name="Integration_Redis" />
+        <module name="ForkJoinJob" />
+        <module name="LockUsage" />
+        <module name="Integration_Caffeine_2" />
+        <module name="Integration_Caffeine_1" />
+        <module name="ForAllOfThings" />
+        <module name="AutoExecSQL" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="Algorithm" target="1.8" />
+      <module name="ApiToken" target="1.8" />
+      <module name="AutoExecSQL" target="1.8" />
+      <module name="base_parent" target="1.8" />
+      <module name="DesignPattern" target="1.8" />
+      <module name="ForAllOfThings" target="1.8" />
+      <module name="ForkJoinJob" target="1.8" />
+      <module name="GradleTry.main" target="1.8" />
+      <module name="GradleTry.test" target="1.8" />
+      <module name="Integration_Caffeine_1" target="1.8" />
+      <module name="Integration_Caffeine_2" target="1.8" />
+      <module name="Integration_Redis" target="1.8" />
+      <module name="LockUsage" target="1.8" />
+      <module name="springframework" target="1.7" />
+      <module name="StreamApi" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Integration_Caffeine_1" options="" />
+    </option>
+  </component>
+</project>

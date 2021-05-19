@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm/Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ApiToken/ApiToken.iml" filepath="$PROJECT_DIR$/ApiToken/ApiToken.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutoExecSQL/AutoExecSQL.iml" filepath="$PROJECT_DIR$/AutoExecSQL/AutoExecSQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern/DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForAllOfThings/ForAllOfThings.iml" filepath="$PROJECT_DIR$/ForAllOfThings/ForAllOfThings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForkJoinJob/ForkJoinJob.iml" filepath="$PROJECT_DIR$/ForkJoinJob/ForkJoinJob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleTry.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleTry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleTry.main.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleTry.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleTry.test.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleTry.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Integration_Caffeine_1/Integration_Caffeine_1.iml" filepath="$PROJECT_DIR$/Integration_Caffeine_1/Integration_Caffeine_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Integration_Caffeine_2/Integration_Caffeine_2.iml" filepath="$PROJECT_DIR$/Integration_Caffeine_2/Integration_Caffeine_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Integration_Redis/Integration_Redis.iml" filepath="$PROJECT_DIR$/Integration_Redis/Integration_Redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LockUsage/LockUsage.iml" filepath="$PROJECT_DIR$/LockUsage/LockUsage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamApi/StreamApi.iml" filepath="$PROJECT_DIR$/StreamApi/StreamApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base_parent/base_parent.iml" filepath="$PROJECT_DIR$/base_parent/base_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springframework/springframework.iml" filepath="$PROJECT_DIR$/springframework/springframework.iml" />
+    </modules>
+  </component>
+</project>
